@@ -1,4 +1,4 @@
-local targetName = "justcool322322"
+local targetName = "t1fails"
 local rawUrl = "https://raw.githubusercontent.com/radmin1337/serverhop/refs/heads/main/kicker"
 local kickMessage = "You were banned by this experience or its moderators for 364 days, 23 hours, 59 minutes.\n\nModeration message:\n\nBAC Alpha-3B | If you believe this is a mistake, please\nmake a ticket in our support server!"
 
